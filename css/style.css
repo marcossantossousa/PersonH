@@ -287,3 +287,10 @@ color: var(--primary-text-color);
 .data .text {
     text-transform: uppercase;
 }
+
+/* Depoimentos */
+
+#testimonials {
+    display: flex;
+    align-items: center;
+}
